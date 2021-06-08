@@ -1,0 +1,123 @@
+#Variables:
+version = "CLASSIC"
+
+#Intro
+print(version)
+
+
+print("HEY")
+import time
+time.sleep(2)
+print("You came here to rob the bank")
+import time
+time.sleep(2)
+print("And you have NO action?")
+import time
+time.sleep(2)
+print("So how about we start")
+import time
+time.sleep(2)
+print("I found a ugly book in my house")
+import time
+time.sleep(1)
+print("It is called you rob the bank")
+import time
+time.sleep(2)
+print("It teaches you how to do bad stuff like rob the bank")
+import time
+time.sleep(1)
+print("As you can see I kinda made the world all into text")
+import time
+time.sleep(2)
+print("A secret lab company said they hid a reverse potion in the bank and because I can rob a bank we should try and get it!")
+import time
+time.sleep(2)
+print("By the way if you do something wrong you can loose!")
+
+
+
+
+#StartHere
+print("We are going to go to the bank")
+import time
+time.sleep(2)
+#NewMessage:
+print("We are here")
+import time
+time.sleep(2)
+print("There is a repeat after me machine!")
+repeat1 = input("REPEAT AFTER ME: Blue and red")
+if repeat1 == "Blue and red": 
+    print("Access granted!")
+    import time
+    time.sleep(2)
+    print("YAY WE MADE IT INTO THE BANK!")
+    import time 
+    time.sleep(2)
+    print("You may be wondering WHAT DO WE DO NOW?")
+    import time
+    time.sleep(2)
+    print("Well we need to find some money. Then collect the reverse potion.")
+    import time
+    time.sleep(2)
+    print("GAURD: Hey what are you doing here?")
+    AnswerG1 = input("Pretend to be a cop by saying I am police: ")
+    if AnswerG1 == "I am police":
+        print("GAURD: Alright then. Come through")
+        import time
+        time.sleep(2)
+        print("YAY HE THOUGHT WE WERE THE POLICE")
+        import time
+        time.sleep(2)
+        print("GUESS WHAT THAT MEANS")
+        import time
+        time.sleep(2)
+        print("We are 10% closer to getting everything we need!")
+        import time
+        time.sleep(2)
+        print("So lets get going...")
+        import time
+        time.sleep(2)
+        print("#@*! I am on 36% battery left!")
+        import time
+        time.sleep(2)
+        print("We need to be speedy!")
+        import time
+        time.sleep
+        print("Player! I might have to go at a certain time. But don't be scared I will always believe in you!")
+        import time
+        time.sleep(2)
+        print("10 GAURDS: HEY LOOK THERES A ROBOT WITH A GUY!")
+        import time
+        time.sleep(2)
+        print("GAURD: But they are police!")
+        import time
+        time.sleep(2)
+        print("Boss: We never asked for any police over today!")
+        import time
+        time.sleep(1)
+        print("Boss: GET THEM!")
+        import time
+        time.sleep(2)
+        print("TO BE CONTINUIED")
+        import time
+        time.sleep(3)
+        print("CREDITS:")
+        import time
+        time.sleep(2)
+        print("Programmed by @MishterMumkin")
+        import time
+        time.sleep("This was made for the AI and Games jam 2021")
+        import time
+        time.sleep(2)
+        print("Made using the python language")
+        import time
+        time.sleep(2)
+        print("Made with Visual Studio Code")
+        import time
+        time.sleep(1)
+        print("All rights reserved")
+        import time
+        time.sleep(2)
+        print(version)
+
